@@ -1,2 +1,4 @@
 # demoshell
-<b>Author - Rittik Roshan Kumar</b>
+<b>Author :- Rittik Roshan Kumar</b>
+<br>
+profrssion :- student 
